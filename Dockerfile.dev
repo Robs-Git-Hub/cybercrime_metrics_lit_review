@@ -1,0 +1,38 @@
+# Use the same strictly tagged base image
+ARG base_image=quay.io/jupyter/minimal-notebook:python-3.12.9
+FROM $base_image
+
+# Switch to root to install Poetry
+USER root
+
+# Install Poetry using the official installer and disable virtualenv creation
+RUN curl -sSL https://install.python-poetry.org | python - && \
+    mv $HOME/.local/bin/poetry /usr/local/bin/poetry && \
+    poetry config virtualenvs.create false && \
+    poetry config installer.max-workers 1 && \
+    poetry config installer.parallel false && \
+    poetry config repositories.pypi https://pypi.org/simple
+
+# Set correct permissions for the non-root user (jovyan)
+RUN chown -R ${NB_UID}:${NB_GID} /home/jovyan
+
+# Switch to jovyan BEFORE running poetry install
+USER ${NB_UID}
+WORKDIR /home/jovyan/work
+
+# Copy the locked requirements file into the image
+COPY requirements.in /requirements.in
+
+# Copy Poetry project files into the image
+COPY pyproject.toml poetry.lock* /home/jovyan/work/
+
+# Install pip dependencies, including large packages like transformers and torchvision
+# Use long timeouts and retry settings to avoid BrokenPipeError on large downloads
+RUN pip install --upgrade pip setuptools wheel && \
+    pip install --timeout 100 --retries 5 --no-cache-dir -r /requirements.in
+
+# Run poetry install as jovyan (so files are writable later in the notebook). 
+# Not using poetry package, just using it for dependency management.
+RUN poetry install --no-root
+
+# CMD is handled via docker-compose.dev.yml
