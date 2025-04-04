@@ -1,0 +1,230 @@
+[
+  {
+    "cite_key": "agrafiotis_2018_atoc",
+    "authors": "Agrafiotis, I., et al.",
+    "title": "A taxonomy of cyber-harms: Defining the impacts of cyber-attacks and understanding how they propagate.",
+    "year": 2018
+  },
+  {
+    "cite_key": "ahmed_2008_anqa",
+    "authors": "Ahmed, Mohammad Salim, Ehab Al-Shaer, and Latif Khan",
+    "title": "A Novel Quantitative Approach For Measuring Network Security.",
+    "year": 2008
+  },
+  {
+    "cite_key": "albluwi_2017_fpec",
+    "authors": "Albluwi, Qutaiba",
+    "title": "Framework for Performance Evaluation of Computer Security Incident Response Capabilities.",
+    "year": 2017
+  },
+  {
+    "cite_key": "amin_2020_tsao",
+    "authors": "Amin, R., et al.",
+    "title": "The Spatial Analysis of the Malicious Uniform Resource Locators (URLs): 2016 Dataset Case Study.",
+    "year": 2020
+  },
+  {
+    "cite_key": "an_2018_adat",
+    "authors": "An, Jungkook, and Hee-Woong Kim",
+    "title": "A Data Analytics Approach to the Cybercrime Underground Economy.",
+    "year": 2018
+  },
+  {
+    "cite_key": "anishchuk_2024_tpoc",
+    "authors": "Anishchuk, V. V., and S. Zytsyk",
+    "title": "The problem of combating cybercrime: a comparative legal analysis.",
+    "year": 2024
+  },
+  {
+    "cite_key": "collier_2021_iiar",
+    "authors": "Collier, Ben, Daniel R. Thomas, R. Clayton, Alice Hutchings, and Y. Chua",
+    "title": "Influence, infrastructure, and recentering cybercrime policing: evaluating emerging approaches to online law enforcement through a market for cybercrime services.",
+    "year": 2021
+  },
+  {
+    "cite_key": "dupont_2021_erbc",
+    "authors": "Dupont, Benoît, and C. Whelan",
+    "title": "Enhancing relationships between criminology and cybersecurity.",
+    "year": 2021
+  },
+  {
+    "cite_key": "enoch_2020_cmfn",
+    "authors": "Enoch, S. Y., et al.",
+    "title": "Composite Metrics for Network Security Analysis.",
+    "year": 2020
+  },
+  {
+    "cite_key": "enoch_2021_mbca",
+    "authors": "Enoch, S. Y., et al.",
+    "title": "Model-based Cybersecurity Analysis: Past Work and Future Directions.",
+    "year": 2021
+  },
+  {
+    "cite_key": "fajar_2020_tist",
+    "authors": "Fajar, Abdullah, and S. Yazid",
+    "title": "The initial socio-technical solution for phishing attack.",
+    "year": 2020
+  },
+  {
+    "cite_key": "ganguli_2024_troc",
+    "authors": "Ganguli, Prithwish",
+    "title": "The Rise of Cybercrime-as-a-service: Implications and Countermeasures.",
+    "year": 2024
+  },
+  {
+    "cite_key": "garg_2013_caos",
+    "authors": "Garg, Vaibhav, T. Koster, and L. Camp",
+    "title": "Cross-country analysis of spambots.",
+    "year": 2013
+  },
+  {
+    "cite_key": "holt_2015_cipa",
+    "authors": "Holt, Thomas J., and A. Bossler",
+    "title": "Cybercrime in Progress: Theory and prevention of technology-enabled offenses.",
+    "year": 2015
+  },
+  {
+    "cite_key": "hussain_2023_acao",
+    "authors": "Hussain, Sadaf, et al.",
+    "title": "A Critical Analysis on Cybercrimes.",
+    "year": 2023
+  },
+  {
+    "cite_key": "king_2018_camf",
+    "authors": "King, Zoe, et al.",
+    "title": "Characterizing and Measuring Maliciousness for Cybersecurity Risk Assessment.",
+    "year": 2018
+  },
+  {
+    "cite_key": "li_2024_mgmo",
+    "authors": "Li, Jiabao",
+    "title": "Multi-governance Model of New Cybercrime under the Risk of New Technologies Risks and Responses.",
+    "year": 2024
+  },
+  {
+    "cite_key": "lippmann_2012_csmp",
+    "authors": "Lippmann, R., et al.",
+    "title": "Continuous Security Metrics for Prevalent Network Threats: Introduction and First Four Metrics.",
+    "year": 2012
+  },
+  {
+    "cite_key": "meland_2021_asms",
+    "authors": "Meland, Per Håkon, et al.",
+    "title": "A Systematic Mapping Study on Cyber Security Indicator Data.",
+    "year": 2021
+  },
+  {
+    "cite_key": "miani_2015_apeo",
+    "authors": "Miani, R. S., et al.",
+    "title": "A Practical Experience on Evaluating Intrusion Prevention System Event Data as Indicators of Security Issues.",
+    "year": 2015
+  },
+  {
+    "cite_key": "rahman_2022_aios",
+    "authors": "Rahman, Md. Rayhanur, and Laurie A. Williams",
+    "title": "An investigation of security controls and MITRE ATT&CK techniques.",
+    "year": 2022
+  },
+  {
+    "cite_key": "reznik_2025_euaa",
+    "authors": "Reznik, Oleg, et al.",
+    "title": "Examining Ukraine's Approaches and Obstacles in Addressing Cyber-Financial Fraud Amid Armed Conflict.",
+    "year": 2025
+  },
+  {
+    "cite_key": "rowe_2006_mteo",
+    "authors": "Rowe, N.",
+    "title": "Measuring the Effectiveness of Honeypot Counter-Counterdeception.",
+    "year": 2006
+  },
+  {
+    "cite_key": "saeed_2021_catp",
+    "authors": "Saeed, Mohammed, et al.",
+    "title": "CYBER ATTACKS - TRENDS, PATTERNS, AND SECURITY COUNTERMEASURES.",
+    "year": 2021
+  },
+  {
+    "cite_key": "sandoval_2010_miac",
+    "authors": "Sandoval, Juan, and Suzanne Hassell",
+    "title": "Measurement, Identification and Calculation of Cyber Defense Metrics.",
+    "year": 2010
+  },
+  {
+    "cite_key": "sawyer_2018_htht",
+    "authors": "Sawyer, B., and P. Hancock",
+    "title": "Hacking the Human: The Prevalence Paradox in Cybersecurity.",
+    "year": 2018
+  },
+  {
+    "cite_key": "shaikh_2024_tdwc",
+    "authors": "Shaikh, Faisal",
+    "title": "The Dark Web: Challenges and Countermeasures in Combating Cybercrime.",
+    "year": 2024
+  },
+  {
+    "cite_key": "shevko_2024_ccsa",
+    "authors": "Shevko, N., and M. A. Lukina",
+    "title": "CYBERCRIME: CURRENT STATUS AND COUNTERMEASURES.",
+    "year": 2024
+  },
+  {
+    "cite_key": "srivastava_2020_docc",
+    "authors": "Srivastava, S., et al.",
+    "title": "Determinants of Cybercrime Originating within a Nation: A Cross-country Study.",
+    "year": 2020
+  },
+  {
+    "cite_key": "taherdoost_2024_iicd",
+    "authors": "Taherdoost, Hamed",
+    "title": "Insights into Cybercrime Detection and Response: A Review of Time Factor.",
+    "year": 2024
+  },
+  {
+    "cite_key": "thomas_2017_1dou",
+    "authors": "Thomas, Daniel R., R. Clayton, and A. Beresford",
+    "title": "1000 days of UDP amplification DDoS attacks.",
+    "year": 2017
+  },
+  {
+    "cite_key": "tiutiunyk_2024_ccno",
+    "authors": "Tiutiunyk, Inna, Dmytro Toptunenko, and Anna Flaumer",
+    "title": "CLASSIFYING CYBERCRIME NETWORKS: ORGANIZED AND TRANSNATIONAL SCHEMES IN THE DIGITAL ERA.",
+    "year": 2024
+  },
+  {
+    "cite_key": "ugwu_2024_atet",
+    "authors": "Ugwu, Jovita Nnenna, and Ifeoma Perpetua Ugwuanyi",
+    "title": "Addressing the Escalating Threat of Cybercrime in African Nations: Strategies for Legislation, Governance, and Capacity Building.",
+    "year": 2024
+  },
+  {
+    "cite_key": "walker-roberts_2018_asro",
+    "authors": "Walker-Roberts, Steven, Mohammad Hammoudeh, and A. Dehghantanha",
+    "title": "A Systematic Review of the Availability and Efficacy of Countermeasures to Internal Threats in Healthcare Critical Infrastructure.",
+    "year": 2018
+  },
+  {
+    "cite_key": "wang_2020_dcpi",
+    "authors": "Wang, Qiu-Hong, and Steven Mark Miller",
+    "title": "Driving Cybersecurity Policy Insights From Information on the Internet.",
+    "year": 2020
+  },
+  {
+    "cite_key": "yarovenko_2020_sfdr",
+    "authors": "Yarovenko, H., et al.",
+    "title": "Strategy for Determining Country Ranking by Level of Cybersecurity.",
+    "year": 2020
+  },
+  {
+    "cite_key": "yarovenko_2023_diub",
+    "authors": "Yarovenko, H., et al.",
+    "title": "Do IT users behave responsibly in terms of cybercrime protection?",
+    "year": 2023
+  },
+  {
+    "cite_key": "yevseiev_2022_doac",
+    "authors": "Yevseiev, S., et al.",
+    "title": "Development of a concept for cybersecurity metrics classification.",
+    "year": 2022
+  }
+]

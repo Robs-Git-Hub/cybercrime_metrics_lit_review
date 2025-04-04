@@ -1,0 +1,685 @@
+[
+  {
+    "cite_key": "anderson_2012_mtco",
+    "chicago_citation": "Anderson, Ross J., et al. 2012. \"Measuring the Cost of Cybercrime.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper is referenced as part of the early foundational work (2012-2015) in cybercrime metrics, specifically pioneering systematic studies on the economic costs of cybercrime. It established frameworks to measure financial impacts and highlighted gaps in reliable data for policymaking."
+      }
+    ]
+  },
+  {
+    "cite_key": "anderson_2019_mtcc",
+    "chicago_citation": "Anderson, Ross J., et al. 2019. \"Measuring the changing cost of cybercrime.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides updated insights on the cost-and-volume metrics of cybercrime. It expands on changes in platforms, attack methods, and prevalence trends, linking metrics to victimization studies and economic impacts. However, its focus on specific cybercrime types (like payment fraud, email compromise) limits its generalizability across all types of cybercrime. It is referenced as a key contribution from R. Anderson and collaborators in cybercrime economic measurement, influencing subsequent research on cost frameworks and cybercrime pattern changes. It also highlights the lack of consistent cost data for policymaking."
+      }
+    ]
+  },
+  {
+    "cite_key": "armin_2015_2cec",
+    "chicago_citation": "Armin, J., Bryn Thompson, Davide Ariu, G. Giacinto, F. Roli, and P. Kijewski. 2015. \"2020 Cybercrime Economic Costs: No Measure No Solution.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper identifies that over 100 different data sources on cybercrime existed by early 2012 but concludes available statistics are \"insufficient and fragmented.\" This fragmentation obscures the true extent of the problem, leaves policymakers inadequately informed, undermines trust in reported figures, and leads to inconsistent measurements due to lack of cohesion between data sources. It highlights the challenge of underreporting and under-recording in official data sources (police reports, court judgments) and the lack of standardized legal definitions. It notes that researchers use alternative data sources like social media, online forums, emails, technical data (spam, honeypots, malicious URLs), and cybersecurity company information as proxies."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper highlights the lack of consistent cost data for policymaking, creating obstacles for evaluating the cost-effectiveness of prevention measures. It tracks changes in cybercrime costs since 2012, observing stable trends but noting emerging crimes like cryptocurrency-related offenses. It is cited for its analysis of gaps in cybercrime impact metrics and cost-effectiveness evaluation, noting the lack of reliable data hindering policy-making and reviewing literature on economic metrics."
+      }
+    ]
+  },
+  {
+    "cite_key": "bergh_2018_voci",
+    "chicago_citation": "Reep-van den Bergh, C. M. M., and M. Junger. 2018. \"Victims of cybercrime in Europe: a review of victim surveys.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides victim-reported statistics, showing annual cybercrime prevalence rates: 1-3% for online shopping fraud, <1-2% for banking/payment fraud, up to 3% for online bullying, 1-6% for hacking, and 2-15% for malware victimization. It uses methods like database search, online search, contacting National Statistics Offices, and survey selection, focusing geographically on Europe. The paper suggests surveys should inquire about the impact or damage to victims."
+      },
+      {
+        "deep_research_report": "2025_04_03_consensus_cybercrime_and_intervention_metrics",
+        "research_note": "This paper uses victim surveys to provide estimates of personal crime prevalence. It reports rates: 1-3% for online shopping fraud, <1-2% for online banking/payment fraud, 1-6% for hacking, and 2-15% for malware victimization."
+      },
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This study focuses on prevalence using a human measurement approach. Its primary metrics are annual crime prevalence rates for various cybercrime types. It is classified as a review study based on empirical data (victim surveys). It reviewed victim surveys to estimate these prevalence rates. It noted inconsistencies in cybercrime victimisation estimates across studies and emphasized the need for standardized survey questions and methodologies."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper reviews victim surveys to estimate the prevalence of six types of cybercrime in Europe, highlighting differences in survey methodology. It provides robust prevalence estimates, noting surveys cover six types and offer annual rates (e.g., hacking 1-6%, malware 2-15%) using population-level data. It is identified as a key work focusing on large-scale surveys, uncovering underreporting issues and demographic vulnerabilities, providing empirical benchmarks."
+      }
+    ]
+  },
+  {
+    "cite_key": "bidgoli_2019_rnre",
+    "chicago_citation": "Bidgoli, M., et al. 2019. \"Report Now. Report Effectively. Conceptualizing the Industry Practice for Cybercrime Reporting.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides insights into cybercrime reporting mechanisms and factors affecting reporting behavior. It examines a reporting interface design tested on users (n=523), highlighting factors like usability, victimization, and perception of crime severity. It proposes customer-friendly reporting interfaces to improve reporting effectiveness and public awareness. The focus is on specific reporting processes rather than comprehensive prevalence metrics or countermeasure evaluation across all cybercrime types. It also designs interactive reporting mechanisms to improve rates and victim engagement."
+      }
+    ]
+  },
+  {
+    "cite_key": "breen_2022_alsm",
+    "chicago_citation": "Breen, Casey F., Cormac Herley, and Elissa M. Redmiles. 2022. \"A Large-Scale Measurement of Cybercrime Against Individuals.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper investigates using social-reporting techniques (similar to those for physical crime prevalence) for cybercrime, aiming for more accurate measurement of prevalence and monetary impact."
+      },
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This study focuses on prevalence using a human measurement approach. Its primary metrics are cybercrime victimization rates and monetary impact. It is classified as a primary empirical study. It conducted a large-scale survey on consumer cybercrime experiences, providing insights into victimization rates and impact. It also addressed the monetary impact of cybercrimes."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides empirical data on consumer cybercrime prevalence and monetary impact through a large-scale US survey (n=11,953). It explores inequities in victimization and evaluates social-reporting techniques for improved measurement, highlighting underreporting and demographic inequities. It suggests improving measurement via social-reporting techniques, addressing self-report survey biases. It demonstrates these techniques for improving victim surveys and crime disclosure. It is identified as a key work focusing on large-scale surveys, uncovering underreporting issues and demographic vulnerabilities."
+      }
+    ]
+  },
+  {
+    "cite_key": "bruce_2024_mtgg",
+    "chicago_citation": "Bruce, Miranda, Jonathan Lusthaus, Ridhi Kashyap, Nigel Phair, and Federico Varese. 2024. \"Mapping the global geography of cybercrime with the World Cybercrime Index.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper details the economic impacts of cybercrime, projecting global losses to reach USD 10.5 trillion by 2025. It discusses the development of metrics like cybercriminality \"type\" scores for specific crime categories and the overall \"World Cybercrime Index\" (WCI) for comparative measurement. The WCI offers an \"overall\" score and specific \"type\" scores for five categories (Technical products/services, Attacks and extortion, Data/identity theft, Scams, Cashing out/money laundering), helping identify hotspots. The study used an expert survey methodology to estimate prevalence by country, identifying countries as significant sources and covering major geopolitical regions. It evaluates the impact by identifying countries posing the most significant threat and highlighting specialization hubs. It suggests countermeasures like improving cyber-law enforcement capacity, increasing legitimate job opportunities, strengthening international agreements, developing social engineering countermeasures, and reducing corruption. It notes the practical value of reliable metrics for resource concentration."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides a global metric for cybercriminal activity by geography, constructing the World Cybercrime Index (WCI) via expert surveys (across 97 countries) to map geographic prevalence of five major cybercrime categories and rank countries. It uses clustering algorithms (K-means++) and PSO algorithms to model policy effectiveness, identifying legal measures as the most impactful. It maps global prevalence, noting mutually reinforcing trends between risk and security infrastructure levels. It evaluates countermeasure effectiveness using algorithms. It is identified as a key work developing predictive models and indexes to standardize global/regional metrics for real-time decision-making."
+      }
+    ]
+  },
+  {
+    "cite_key": "cassidy_2024_etac",
+    "chicago_citation": "Cassidy, Adam At Thur Jasson, et al. 2024. \"Emerging Trends and Challenges in Digital Crime: A Study of Cyber Criminal Tactics and Countermeasures.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_consensus_cybercrime_and_intervention_metrics",
+        "research_note": "This paper describes common cybercrime types including phishing, ransomware, data breaches, identity theft, and hacking, noting their increasing sophistication and frequency. It identifies effective countermeasures including the implementation of cybersecurity frameworks, incident response protocols, and technological advancements in threat detection and prevention."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper studies cyber criminal tactics and countermeasures, relevant to countermeasure effectiveness metrics. (No further details provided in the source)."
+      }
+    ]
+  },
+  {
+    "cite_key": "chen_2023_etgg",
+    "chicago_citation": "Chen, Shuai, Mengmeng Hao, Fangyu Ding, Dong Jiang, Jiping Dong, Shize Zhang, Qiquan Guo, and Chundong Gao. 2023. \"Exploring the global geography of cybercrime and its driving forces.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper highlights the fundamental measurement challenge posed by the lack of standardized legal definitions and reliable official statistics. It notes underreporting and under-recording issues in official sources (police reports, court judgments). It states researchers use alternative data sources like social media, online forums, emails, technical data (spam, honeypots, malicious URLs - particularly spam emails, IDS/IPS logs, firewall logs, malicious domains/URLs, IP addresses as proxies), cybersecurity company reports, and social media/online platforms (especially for social engineering/interpersonal offenses). It uses the FireHOL IP blocklist and analyzes data using Generalised Linear Models (GLMs) and structural equation modeling (SEM) to explore the relationship between socioeconomic conditions and cybercrime, considering technological factors as mediators. It focuses on social, economic, political, technological, and cybersecurity factors integrated to understand cybercrime. The data source is the FireHOL IP blocklist."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper explores the global geography of cybercrime and its driving forces, relevant to geographic variations in metrics. (No further details provided in the source)."
+      }
+    ]
+  },
+  {
+    "cite_key": "cobb_2020_aaao",
+    "chicago_citation": "Cobb, Stephen. 2020. \"Advancing Accurate and Objective Cybercrime Metrics.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper discusses advancing cybercrime metrics, relevant to metric reliability and standardization. (No further details provided in the source)."
+      }
+    ]
+  },
+  {
+    "cite_key": "dupont_2019_eteo",
+    "chicago_citation": "Dupont, Benoît. 2019. \"Enhancing the effectiveness of cybercrime prevention through policy monitoring.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper proposes a framework for monitoring cybercrime prevention policies globally, focusing on policy effectiveness in reducing exposure and emphasizing systematic evaluation methods like policy surveillance. It suggests templates for future tools. It is identified as a key work emphasizing policy surveillance methods, integrating principles from public health and education, and bridging gaps between enforcement effectiveness and prevention strategies."
+      }
+    ]
+  },
+  {
+    "cite_key": "ivkic_2021_ascm",
+    "chicago_citation": "Ivkic, Igor, et al. 2021. \"A Security Cost Modelling Framework for Cyber-Physical Systems.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides a framework to measure security costs specifically in Cyber-Physical Systems (CPS). It uses normalized metrics to quantify overhead from security tasks and evaluate performance impacts within CPS environments. It introduces this Security Cost Modelling Framework to quantify cost-benefit trade-offs. However, its focus is specific to CPS, not general cybercrime metrics or countermeasures across all types."
+      }
+    ]
+  },
+  {
+    "cite_key": "kigerl_2012_rata",
+    "chicago_citation": "Kigerl, Alex. 2012. \"Routine Activity Theory and the Determinants of High Cybercrime Countries.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper utilizes alternative data sources as proxies for cybercrime. It notes research showing that wealthier nations with higher Internet adoption rates tend to experience more cybercrime activity, with unemployment acting as an amplifying factor when combined with Internet usage rates."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper uses Routine Activity Theory to analyze determinants of high cybercrime countries, relevant to prevalence metrics. (No further details provided in the source)."
+      }
+    ]
+  },
+  {
+    "cite_key": "kshetri_2013_rvca",
+    "chicago_citation": "Kshetri, N. 2013. \"Reliability, Validity, Comparability and Practical Utility of Cybercrime-Related Data, Metrics, and Information.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides analysis of reliability and validity challenges in cybercrime metrics. It details issues like broad definitions, data comparability, and practical utility relevant to measuring prevalence across types. It critiques the reliability, validity, and utility due to broad definitions and data inconsistency. While relevant for prevalence metrics, it lacks specific focus on countermeasure evaluation."
+      }
+    ]
+  },
+  {
+    "cite_key": "kuklytė_2017_cavo",
+    "chicago_citation": "Kuklytė, Jūratė. 2017. \"Challenges and Vulnerabilities of Analysing Cybercrime Costs.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides insight into challenges in analyzing cybercrime economic impact. It focuses on cost-related metrics from surveys and statistical analyses but lacks discussion on countermeasure effectiveness or cross-type metrics. It offers partial relevance for prevalence metrics but doesn't address broader frameworks."
+      }
+    ]
+  },
+  {
+    "cite_key": "kumar_2024_paoc",
+    "chicago_citation": "Kumar, Sudhesh, and Minni Sinha. 2024. \"Pattern Analysis of Cyber Crime Incidents to Predict Occurrence and Selection of The Best Technology to Prevent IT.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides predictive modeling for cybercrime and identifies prevention technologies. It uses machine learning and pattern analysis to predict occurrence, focusing on geographic, sectoral, and attack vector insights. It employs machine learning to forecast occurrences and optimize countermeasure technologies. It does not focus on generalizable prevalence metrics or robustly evaluate countermeasure effectiveness across all types; only prevention tech is discussed. It is identified as part of emerging algorithmic approaches developing predictive models."
+      }
+    ]
+  },
+  {
+    "cite_key": "lv_2025_rocp",
+    "chicago_citation": "Lv, Jiaxing, et al. n.d. \"Research on Cybercrime Prevention and Control Strategies Based on K-means++ and PSO Algorithm.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides global cybercrime prevalence metrics and evaluates countermeasure effectiveness using algorithms. It constructs the World Cybercrime Index (WCI) using K-means++ clustering and Particle Swarm Optimization (PSO) algorithms to analyze global risk patterns and develops a security index (S) to assess policy impacts (identifying legal measures as most impactful). It models policy effectiveness and optimizes political/legal scenarios. Focus is on general trends and legal efficacy, leaning on national-level patterns. It is identified as part of emerging algorithmic approaches developing predictive models."
+      }
+    ]
+  },
+  {
+    "cite_key": "muammar_2023_draf",
+    "chicago_citation": "Muammar, Suadad, D. Shehada, and Wathiq Mansoor. 2023. \"Digital Risk Assessment Framework for Individuals: Analysis and Recommendations.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper investigates applying social-reporting techniques (from physical crime) to cybercrime for more accurate prevalence and monetary impact measurement. It uses Bernoulli distribution f(i..p) to quantify probability of loss and impact for online scams, security incidents, communication-based harms (e.g., bullying, radicalization). The analysis method is Bernoulli distribution f(i..p) to quantify risk probabilities. No specific geographical focus (N/A). It proposes mitigation measures prioritized using quantified risk values and recommends treatment options for each risk. The key impact finding is that online scams present the biggest financial risk."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper develops a digital risk assessment framework for individuals, relevant to prevalence metrics. (No further details provided in the source)."
+      }
+    ]
+  },
+  {
+    "cite_key": "ng_2023_wwdi",
+    "chicago_citation": "Ng, Magdalene, et al. 2023. \"What We Do in the Shadows: How does Experiencing Cybercrime Affect Response Actions & Protective Practices?\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides insights into individual responses to cybercrime incidents. It examines how cybercrime type and frequency influence engagement with security and privacy technologies using survey-based empirical data from Australia (n=13,887). It links victimization to protective practices, analyzing response strategies. It focuses on specific cybercrimes and individual responses, not general metrics or countermeasures across all cybercrime types."
+      }
+    ]
+  },
+  {
+    "cite_key": "na_2024_elrt",
+    "chicago_citation": "N.a. 2024. \"Evolving Legal Responses to Cybercrime: Bridging Regulatory Gaps in the Digital Age.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides insight into how updated legal frameworks impact cybercrime prosecution. It explains that modern laws increase prosecution rates by 45% and blockchain aids in tracking cryptocurrency-related offenses by 34%. It illustrates improved enforcement success with updated laws, analyzing regional gaps, and emphasizing blockchain forensic techniques. It does not address prevalence metrics or countermeasure effectiveness across all cybercrime types, focusing instead on legal enforcement gaps and trends."
+      }
+    ]
+  },
+  {
+    "cite_key": "tcherni_2016_tdfo",
+    "chicago_citation": "Tcherni, M., et al. 2016. \"The Dark Figure of Online Property Crime: Is Cyberspace Hiding a Crime Wave?\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides alternative views on property crime trends and reporting gaps. It uses victimization surveys to highlight underreported prevalence and costs of online property crime (OPC), discussing data challenges. Its focus is solely on OPC, not broader cybercrime metrics or countermeasures."
+      }
+    ]
+  },
+  {
+    "cite_key": "teunissen_2021_etco",
+    "chicago_citation": "Teunissen, C., et al. 2021. \"Estimating the cost of pure cybercrime to Australian individuals.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides prevalence metrics for pure cybercrime in Australia. It estimates victimization rates, population impacts, and economic costs using survey data, covering prevention, direct losses, and recovery expenses. Focuses only on pure cybercrime types, lacking countermeasure evaluation or generalizable metrics across all types."
+      }
+    ]
+  },
+  {
+    "cite_key": "veresha_2018_pmac",
+    "chicago_citation": "Veresha, Roman. 2018. \"Preventive measures against computer related crimes.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides estimates of cybercrime costs (hundreds of millions to trillions annually) and notes increased US government spending on combating cybercrime ($7.5B in 2007 to $28B in 2016). It discusses socioeconomic correlation indicators, suggesting cybercrime depends on technological advancement and socioeconomic factors, with higher standards of living potentially correlating with lower cybercrime levels. The study uses statistical data to measure/assess cybercrime/cybersecurity effectiveness, focusing on cyber extortion, ransomware, anti-phishing, anti-bullying. It discusses individualized preventive measures including forecasting dangerous cybercrimes, focusing on high-risk areas, and developing legal frameworks. Geographical focus includes Nigeria, China, Taiwan, Norway, Finland. Preventive measures include cyberethics education, anti-criminalization, anti-bullying propaganda, shaping negative attitudes, and individualized prevention strategies. Economic metrics reveal dependence on tech advancement and socioeconomic factors; higher living standards correlate with lower cybercrime. This insight aids targeted economic interventions."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper estimates pure cybercrime costs to Australian individuals, detailing direct losses and prevention costs ($3.5b in 2019). The 2025_04_03_undermind_cybercrime_and_intervention_metrics report correctly cites Veresha later for US spending figures ($7.5B in 2007 to $28B in 2016)."
+      }
+    ]
+  },
+  {
+    "cite_key": "voce_2023_cia2",
+    "chicago_citation": "Voce, I., and Anthony Morgan. 2023. \"Cybercrime in Australia 2023.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides prevalence metrics for cybercrime victimization among Australian computer users based on a large-scale survey (n=13,887). It quantifies victimization rates (47% experienced cybercrime) across multiple types, highlighting underreporting and demographic disparities/community-specific vulnerabilities. It does not address countermeasure effectiveness or generalizable metrics across all types; focus is region-specific."
+      }
+    ]
+  },
+  {
+    "cite_key": "woods_2022_reoc",
+    "chicago_citation": "Woods, Daniel W., and Lukas Walter. 2022. \"Reviewing Estimates of Cybercrime Victimisation and Cyber Risk Likelihood.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This study focuses on prevalence using a combined Human/Economic measurement approach. Primary metrics are Victimisation rates and cyber incident probability (from insurance claims data). It is categorized as a review study (Literature review). It reviewed methods for estimating cybercrime victimisation and included economic measures like cyber incident probability from insurance data. It noted inconsistencies in victimisation estimates across studies and emphasized the need for standardized survey questions/methodologies. Challenges include inconsistencies across studies and reporting biases. Validation is through review of victim surveys and insurance data."
+      }
+    ]
+  },
+  {
+    "cite_key": "agrafiotis_2018_atoc",
+    "chicago_citation": "Agrafiotis, I., et al. 2018. \"A taxonomy of cyber-harms: Defining the impacts of cyber-attacks and understanding how they propagate.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper proposes frameworks for calculating cybercrime costs, categorizing them into three types: those incurred in anticipation of crime, those resulting as a consequence of crime, and those associated with responding to criminal activities. It identifies two principal approaches for quantifying these costs: a \"bottom-up\" method (surveying individual cases and estimating harms) and a \"top-down\" approach (estimating public willingness to pay to avoid/reduce crimes). The frameworks address designing metrics by providing taxonomies of harm, including individual, systemic, and inchoate damages."
+      }
+    ]
+  },
+  {
+    "cite_key": "ahmed_2008_anqa",
+    "chicago_citation": "Ahmed, Mohammad Salim, Ehab Al-Shaer, and Latif Khan. 2008. \"A Novel Quantitative Approach For Measuring Network Security.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This paper focuses on the effectiveness of countermeasures using a technical measurement approach. It proposes a security metric framework that quantifies security risk factors, historical vulnerability trends, and policy resistance to attack propagation. The study is categorized as methodological development. It uses real-life vulnerability data for validation but faces challenges due to the complexity of network environments and evolving threats."
+      }
+    ]
+  },
+  {
+    "cite_key": "albluwi_2017_fpec",
+    "chicago_citation": "Albluwi, Qutaiba. 2017. \"Framework for Performance Evaluation of Computer Security Incident Response Capabilities.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper discusses the Goal-Question-Indicator-Metric (GQIM) model as a structured approach to cybersecurity measurement. The GQIM model provides a systematic methodology recommended by CERT for defining security objectives and metrics by deriving goals (G), formulating questions (Q), defining indicators (I), and establishing metrics (M). It notes that aligning GQIM with the NIST guide for handling computer security incidents (which requires goal definition and metric formulation in Computer Security Incident Response Plans - CSIRPs) offers an implementation pathway for measuring security performance."
+      }
+    ]
+  },
+  {
+    "cite_key": "amin_2020_tsao",
+    "chicago_citation": "Amin, R., et al. 2020. \"The Spatial Analysis of the Malicious Uniform Resource Locators (URLs): 2016 Dataset Case Study.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper uses technical indicators like malicious domains/URLs and IP addresses as proxies for cybercrime aspects in macro-level research. It utilizes cross-national datasets, specifically mentioning the Canadian Institute for Cybersecurity's collection of over 110,000 URLs (classified into benign, phishing, malware, spam, defacement), to enable spatial analysis of cybercrime origins and identify high-risk countries. The study employs spatial analysis using SaTScan TM software to identify significant clusters of cyber attacks based on country of origin, analyzing attack rates and relative risks from various countries. It analyzes cyber attacks based on country of origin using this software and internet user data, applying spatial analysis to identify clusters and provide a novel perspective on cyber attack hotspots. The data source is explicitly the Canadian Institute for Cybersecurity dataset. The paper notes that official statistics (police data, court judgments) are limited but provide baseline information. It also highlights that the uneven distribution of global cybercrime creates measurement challenges, requiring targeted analysis for cross-border threats."
+      }
+    ]
+  },
+  {
+    "cite_key": "an_2018_adat",
+    "chicago_citation": "An, Jungkook, and Hee-Woong Kim. 2018. \"A Data Analytics Approach to the Cybercrime Underground Economy.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper discusses applying economic analysis to evaluate countermeasure effectiveness, noting research indicates countermeasures targeting cybercrime attacker revenue streams are most effective. It analyzes the economic impact of perpetrators to develop insights into cybercriminal behavior and coping strategies."
+      }
+    ]
+  },
+  {
+    "cite_key": "anishchuk_2024_tpoc",
+    "chicago_citation": "Anishchuk, V. V., and S. Zytsyk. 2024. \"The problem of combating cybercrime: a comparative legal analysis.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_consensus_cybercrime_and_intervention_metrics",
+        "research_note": "This paper emphasizes that international cooperation among countries and organizations is essential for addressing the transborder nature of cybercrime and improving cybersecurity measures."
+      }
+    ]
+  },
+  {
+    "cite_key": "collier_2021_iiar",
+    "chicago_citation": "Collier, Ben, Daniel R. Thomas, R. Clayton, Alice Hutchings, and Y. Chua. 2021. \"Influence, infrastructure, and recentering cybercrime policing: evaluating emerging approaches to online law enforcement through a market for cybercrime services.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper uses honeypot systems (specialized servers mimicking vulnerable machines) to record attack patterns and provide near real-time data on DDoS attacks. It employs longitudinal analysis of five years of time series attack data. Indicators include this time series data and growth cessation in UK attacks. Technological factors considered are internet infrastructure disruption, targeting administrators, platform intermediaries, and search engine ads. The analysis methodology is longitudinal analysis of the time series data. Crime theories involved are infrastructural policing and influence policing from counter-radicalisation strategies. Data sources include time series attack data, interviews with law enforcement, and DoS providers."
+      }
+    ]
+  },
+  {
+    "cite_key": "dupont_2021_erbc",
+    "chicago_citation": "Dupont, Benoît, and C. Whelan. 2021. \"Enhancing relationships between criminology and cybersecurity.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper notes that cybersecurity researchers leverage technical expertise to develop diverse measurement strategies assessing the cyber-threat landscape, organizational risk exposure, resulting harm, and effectiveness of security measures. These approaches utilize data from criminal forum posts, insurance prices, stock market activity, bitcoin transactions, legal cases, data breach incident reports, and surveys processed using customized computer programs and algorithms, helping debunk myths. Developing reliable metrics has practical value for resource concentration."
+      }
+    ]
+  },
+  {
+    "cite_key": "enoch_2020_cmfn",
+    "chicago_citation": "Enoch, S. Y., et al. 2020. \"Composite Metrics for Network Security Analysis.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper details several specific metrics for countermeasure effectiveness: *Vulnerability quantification metrics:* Quantify enterprise/system vulnerabilities (user passwords, software vulnerabilities, crypto key vulnerabilities) providing baseline data. *Defense effectiveness components:* Evaluate countermeasure deployment via metrics like blacklisting effectiveness, attack detection capabilities, software diversification effectiveness, and overall performance. *Threat assessment metrics:* Evaluate threats via assessment of zero-day attack potential, individual attack power, and obfuscation sophistication, helping determine if countermeasures are effective against specific threats. *Situation assessment metrics:* Evaluate security investments, states, and incidents to provide context for measuring countermeasure effectiveness in the broader environment."
+      }
+    ]
+  },
+  {
+    "cite_key": "enoch_2021_mbca",
+    "chicago_citation": "Enoch, S. Y., et al. 2021. \"Model-based Cybersecurity Analysis: Past Work and Future Directions.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper discusses defense effectiveness metrics: quantitative measures designed to evaluate cyber defenses, including Moving Target Defense (MTD) and cyber-deception techniques, which help present network security posture based on a defined scale."
+      }
+    ]
+  },
+  {
+    "cite_key": "fajar_2020_tist",
+    "chicago_citation": "Fajar, Abdullah, and S. Yazid. 2020. \"The initial socio-technical solution for phishing attack.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper analyzes the economic effectiveness of countermeasures, focusing on research showing that targeting attacker revenue streams is most effective. It uses economic impact analysis of perpetrators to develop insights."
+      }
+    ]
+  },
+  {
+    "cite_key": "ganguli_2024_troc",
+    "chicago_citation": "Ganguli, Prithwish. 2024. \"The Rise of Cybercrime-as-a-service: Implications and Countermeasures.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_consensus_cybercrime_and_intervention_metrics",
+        "research_note": "This paper explores the use of artificial intelligence and machine learning as technological solutions to enhance threat detection and response capabilities against cybercrime."
+      }
+    ]
+  },
+  {
+    "cite_key": "garg_2013_caos",
+    "chicago_citation": "Garg, Vaibhav, T. Koster, and L. Camp. 2013. \"Cross-country analysis of spambots.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper uses technical indicators like spam emails as proxies for cybercrime aspects in macro-level research. It employs cross-country empirical analysis of economic factors. Indicators include economic factors and Internet adoption rates. A technological factor identified is that higher Internet adoption correlates with higher spam and infected machines. Analysis uses cross-country empirical analysis of economic factors. Crime theories considered include economic factors, criminology offline theories, and security economics. It notes research showing wealthier nations with higher internet adoption tend to experience more cybercrime activity, amplified by unemployment when combined with Internet usage rates."
+      },
+      {
+        "deep_research_report": "2025_04_03_undermind_cybercrime_and_intervention_metrics",
+        "research_note": "This paper conducts a cross-country analysis of spambots, relevant to prevalence metrics. (No further details provided in the source)."
+      }
+    ]
+  },
+  {
+    "cite_key": "holt_2015_cipa",
+    "chicago_citation": "Holt, Thomas J., and A. Bossler. 2015. *Cybercrime in Progress: Theory and prevention of technology-enabled offenses.*",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper highlights the fundamental issue of the lack of standardized legal definitions and reliable official statistics for cybercrime measurement. It notes the problem of underreporting and under-recording in official data sources (police records, court judgments)."
+      }
+    ]
+  },
+  {
+    "cite_key": "hussain_2023_acao",
+    "chicago_citation": "Hussain, Sadaf, et al. 2023. \"A Critical Analysis on Cybercrimes.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_consensus_cybercrime_and_intervention_metrics",
+        "research_note": "This paper discusses common cybercrime types (phishing, ransomware, data breaches, identity theft, hacking) with increasing sophistication. It points to the enactment of laws, like the Prevention of Electronic Act - 2016 in Pakistan, and international cooperation frameworks (like the Budapest Convention) as crucial legal and governance countermeasures."
+      }
+    ]
+  },
+  {
+    "cite_key": "king_2018_camf",
+    "chicago_citation": "King, Zoe, et al. 2018. \"Characterizing and Measuring Maliciousness for Cybersecurity Risk Assessment.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper proposes using S.M.A.R.T. (Specific, Measurable, Accurate and achievable, Relevant and reproducible, Time-bound) measurement metrics for effective cybersecurity metrics to quantify cyber risk within needed timeframes."
+      }
+    ]
+  },
+  {
+    "cite_key": "li_2024_mgmo",
+    "chicago_citation": "Li, Jiabao. 2024. \"Multi-governance Model of New Cybercrime under the Risk of New Technologies Risks and Responses.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper notes that current preventive intervention models (emphasizing early detection via technical/regulatory means) are hampered by inadequate early warning mechanisms and lack of targeted intervention measures, exacerbated by lagging legislation."
+      }
+    ]
+  },
+  {
+    "cite_key": "lippmann_2012_csmp",
+    "chicago_citation": "Lippmann, R., et al. 2012. \"Continuous Security Metrics for Prevalent Network Threats: Introduction and First Four Metrics.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This study focuses on effectiveness using a technical measurement approach. It developed four security metrics (LR-1 to LR-4) assessing risk from prevalent network threats, designed for automatic and continuous computation. The primary metric is the probability of compromise. It is categorized as methodological development. It proposed a metric maturity model for implementing and improving security metrics."
+      }
+    ]
+  },
+  {
+    "cite_key": "meland_2021_asms",
+    "chicago_citation": "Meland, Per Håkon, et al. 2021. \"A Systematic Mapping Study on Cyber Security Indicator Data.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper identifies data from online hacker forums (surface web) providing information on cybercriminal activities, attack planning, targets, and emerging threats. It also mentions network traffic analysis (data from network traces with traffic events, intrusion detection alerts, user behaviors) providing quantifiable technical content for measurement. Incident and vulnerability reports provide technical content that is relatively easy to quantify, share, standardize, and act upon. The study uses structured and historical data commonly used for assessing prevalence and countermeasure effectiveness. It notes no specific technological factors but applies a systematic mapping study methodology for data analysis. The paper focuses on data-driven decisions in cybersecurity using indicators for risk estimation. Data sources include network data, system data, unconventional data, threat intelligence feeds, databases/repositories, and expert opinion."
+      }
+    ]
+  },
+  {
+    "cite_key": "miani_2015_apeo",
+    "chicago_citation": "Miani, R. S., et al. 2015. \"A Practical Experience on Evaluating Intrusion Prevention System Event Data as Indicators of Security Issues.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This study focuses on effectiveness using a technical measurement approach. Its primary metrics are Intrusion Detection and Prevention System (IDPS) alert characteristics used as security incident indicators. It is categorized as a primary empirical case study conducted in a large organization. Challenges include false positives and alert volume."
+      }
+    ]
+  },
+  {
+    "cite_key": "rahman_2022_aios",
+    "chicago_citation": "Rahman, Md. Rayhanur, and Laurie A. Williams. 2022. \"An investigation of security controls and MITRE ATT&CK techniques.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper discusses control assessment frameworks: metric suites allowing organizations to assess the effectiveness of implemented security controls, particularly regarding mitigating techniques used by cybercriminal groups and malware cataloged in the MITRE ATT&CK framework."
+      }
+    ]
+  },
+  {
+    "cite_key": "reznik_2025_euaa",
+    "chicago_citation": "Reznik, Oleg, et al. 2025. \"Examining Ukraine's Approaches and Obstacles in Addressing Cyber-Financial Fraud Amid Armed Conflict.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper discusses evaluation frameworks for countermeasure effectiveness which often include specific objectives focused on analyzing cybercrime types and assessing current protective measures. These frameworks may examine how technological advancements affect criminal methods, evaluate law enforcement responses, and propose enhancements to legal and operational frameworks, enabling systematic assessment against evolving threats."
+      }
+    ]
+  },
+  {
+    "cite_key": "rowe_2006_mteo",
+    "chicago_citation": "Rowe, N. 2006. \"Measuring the Effectiveness of Honeypot Counter-Counterdeception.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This study focuses on effectiveness using a technical measurement approach. It developed a metric-calculating tool summarizing file systems with a 72-number vector to assess honeypot effectiveness. Primary metrics include this vector and honeypot detection rates. It is categorized as a primary empirical study. Validation involved comparison with real systems and Internet scanner detection. Challenges include the realism of honeypot environments."
+      }
+    ]
+  },
+  {
+    "cite_key": "saeed_2021_catp",
+    "chicago_citation": "Saeed, Mohammed, et al. 2021. \"CYBER ATTACKS - TRENDS, PATTERNS, AND SECURITY COUNTERMEASURES.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_consensus_cybercrime_and_intervention_metrics",
+        "research_note": "This paper identifies effective countermeasures including the implementation of cybersecurity frameworks, incident response protocols, and technological advancements in threat detection and prevention."
+      }
+    ]
+  },
+  {
+    "cite_key": "sandoval_2010_miac",
+    "chicago_citation": "Sandoval, Juan, and Suzanne Hassell. 2010. \"Measurement, Identification and Calculation of Cyber Defense Metrics.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This study focuses on effectiveness using a technical measurement approach. Primary metrics include attacker cost (time-based) and defensive layer effectiveness. It is categorized as a primary simulation study (discrete event simulation). It focused on increased cost to cyber attackers as a metric for defensive solution evaluation. Challenges include simulating realistic attack scenarios."
+      }
+    ]
+  },
+  {
+    "cite_key": "sawyer_2018_htht",
+    "chicago_citation": "Sawyer, B., and P. Hancock. 2018. \"Hacking the Human: The Prevalence Paradox in Cybersecurity.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This study focuses on effectiveness using a human measurement approach. Primary metrics are Accuracy (attack email detect-and-report rate) and Response Time, examining the prevalence effect in email cybersecurity. It is categorized as a primary simulation study (controlled simulation). Challenges include the prevalence effect and user behavior variability."
+      }
+    ]
+  },
+  {
+    "cite_key": "shaikh_2024_tdwc",
+    "chicago_citation": "Shaikh, Faisal. 2024. \"The Dark Web: Challenges and Countermeasures in Combating Cybercrime.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_consensus_cybercrime_and_intervention_metrics",
+        "research_note": "This paper explores the use of artificial intelligence and machine learning as technological solutions to enhance threat detection and response capabilities against cybercrime, specifically in the context of the Dark Web."
+      }
+    ]
+  },
+  {
+    "cite_key": "shevko_2024_ccsa",
+    "chicago_citation": "Shevko, N., and M. A. Lukina. 2024. \"CYBERCRIME: CURRENT STATUS AND COUNTERMEASURES.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_consensus_cybercrime_and_intervention_metrics",
+        "research_note": "This paper discusses common cybercrime types (phishing, ransomware, data breaches, identity theft, hacking) with increasing sophistication. It emphasizes that international cooperation is essential to address the transborder nature of cybercrime and improve cybersecurity measures."
+      }
+    ]
+  },
+  {
+    "cite_key": "srivastava_2020_docc",
+    "chicago_citation": "Srivastava, S., et al. 2020. \"Determinants of Cybercrime Originating within a Nation: A Cross-country Study.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper highlights that measurement challenges (lack of accurate metrics, consistent approaches) have significant implications, making it difficult to effectively allocate resources, develop countermeasures, and evaluate prevention efforts."
+      }
+    ]
+  },
+  {
+    "cite_key": "taherdoost_2024_iicd",
+    "chicago_citation": "Taherdoost, Hamed. 2024. \"Insights into Cybercrime Detection and Response: A Review of Time Factor.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper discusses the development of models addressing time-related aspects of cybersecurity, particularly detection and response metrics. By synthesizing theoretical frameworks and models, it aims to explain difficulties in detection/response and emphasizes the need for sophisticated technology for defense efficiency. These frameworks typically incorporate structured approaches with specific research objectives/questions for practitioners, policymakers, and researchers."
+      }
+    ]
+  },
+  {
+    "cite_key": "thomas_2017_1dou",
+    "chicago_citation": "Thomas, Daniel R., R. Clayton, and A. Beresford. 2017. \"1000 days of UDP amplification DDoS attacks.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper uses honeypot systems to record attack patterns and provide near real-time data on DDoS attacks. It analyzes honeypot UDP reflectors, capture-recapture techniques. Indicators are median malicious scanners, recorded attacks, capture-recapture. Technological factors considered are reflected UDP amplification, network honeypots, attacker anonymity. Analysis uses capture-recapture statistical technique. Crime theory: Low-risk strategy for vandalism and extortion via anonymity. Data source: Network of honeypot UDP reflectors (median size 65 nodes)."
+      }
+    ]
+  },
+  {
+    "cite_key": "tiutiunyk_2024_ccno",
+    "chicago_citation": "Tiutiunyk, Inna, Dmytro Toptunenko, and Anna Flaumer. 2024. \"CLASSIFYING CYBERCRIME NETWORKS: ORGANIZED AND TRANSNATIONAL SCHEMES IN THE DIGITAL ERA.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper provides recent projections of global cybercrime losses reaching USD 10.5 trillion/year by 2025 (up from $3 trillion in 2015), with data breaches exceeding 1.1 billion cases in 2023."
+      }
+    ]
+  },
+  {
+    "cite_key": "ugwu_2024_atet",
+    "chicago_citation": "Ugwu, Jovita Nnenna, and Ifeoma Perpetua Ugwuanyi. 2024. \"Addressing the Escalating Threat of Cybercrime in African Nations: Strategies for Legislation, Governance, and Capacity Building.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_consensus_cybercrime_and_intervention_metrics",
+        "research_note": "This paper highlights geographical variations in cybercrime prevalence, noting specific challenges in Africa due to insufficient cybersecurity laws and infrastructure. It points to international cooperation frameworks (like the Budapest Convention) as crucial countermeasures and emphasizes that international collaboration is essential."
+      }
+    ]
+  },
+  {
+    "cite_key": "walker-roberts_2018_asro",
+    "chicago_citation": "Walker-Roberts, Steven, Mohammad Hammoudeh, and A. Dehghantanha. 2018. \"A Systematic Review of the Availability and Efficacy of Countermeasures to Internal Threats in Healthcare Critical Infrastructure.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_elicit_cybercrime_and_intervention_metrics",
+        "research_note": "This study focuses on effectiveness using a technical measurement approach. Primary metrics are True Positive Rate and False Positive Rate. It is categorized as a review study (Systematic review) focusing on existing studies. It highlighted high heterogeneity in insider threat countermeasure effectiveness."
+      }
+    ]
+  },
+  {
+    "cite_key": "wang_2020_dcpi",
+    "chicago_citation": "Wang, Qiu-Hong, and Steven Mark Miller. 2020. \"Driving Cybersecurity Policy Insights From Information on the Internet.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper uses backscatter traffic data (collection of visible/identifiable backscatter traffic on public-peering infrastructure) to provide insights into cybercriminal activities and law enforcement challenges. It also uses data from online hacker forums (surface web) for information on activities, planning, targets, and threats."
+      }
+    ]
+  },
+  {
+    "cite_key": "yarovenko_2020_sfdr",
+    "chicago_citation": "Yarovenko, H., et al. 2020. \"Strategy for Determining Country Ranking by Level of Cybersecurity.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper uses twelve indicators to characterize country-level cybersecurity: policy development, threat analysis, education, protection of digital/essential services, e-identification, personal data protection, incident response, crisis management, anti-cybercrime efforts, military cyber operations. The study addresses various types like hacking, cyber-fraud, viral messages, cyberwar. It uses Multi-attribute decision-making methods (TOPSIS, VIKOR, MAAM) for estimating prevalence. Focuses on ranking countries globally by cybersecurity level. Preventive measures include cybersecurity policy development, education, and technology improvements."
+      }
+    ]
+  },
+  {
+    "cite_key": "yarovenko_2023_diub",
+    "chicago_citation": "Yarovenko, H., et al. 2023. \"Do IT users behave responsibly in terms of cybercrime protection?\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper uses metrics tracking specific cybercrime types based on European Commission surveys: fraudulent credit/debit card use, online identity theft, phishing, pharming, misuse of personal information, account hacking, data loss due to viruses. It also uses financial loss indicators: tracking the percentage of individuals experiencing financial losses due to identity theft, fraudulent messages, or fake website redirections to quantify financial impact. The study used metrics like fraudulent credit card use, online identity theft, phishing, etc., to measure cybercrime and cybersecurity effectiveness. Types covered include Phishing, Pharming, Online identity theft, Fraudulent credit/debit card use, Misuse of personal information, Social network/email account hacking, Data loss due to virus, Identity theft, receiving fraudulent messages/being redirected to fake websites. Canonical analysis and Kohonen maps were used to estimate prevalence and analyze IT users' behavior. Geographical focus is European countries. Preventive measures include multiple identification procedures, mobile phone security, limiting data access, educating users. It evaluates the impact on IT users' responsible behavior for personal data protection."
+      }
+    ]
+  },
+  {
+    "cite_key": "yevseiev_2022_doac",
+    "chicago_citation": "Yevseiev, S., et al. 2022. \"Development of a concept for cybersecurity metrics classification.\"",
+    "reports": [
+      {
+        "deep_research_report": "2025_04_03_scholarqa_cybercrime_and_intervention_metrics",
+        "research_note": "This paper recognizes the growing need for holistic enterprise-wide models (with formal syntax/semantics) to assess overall information security states, moving beyond measuring specific device characteristics."
+      }
+    ]
+  }
+]
+

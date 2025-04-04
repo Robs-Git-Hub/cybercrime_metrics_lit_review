@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.dev
-    image: ${IMAGE_NAME:-jupyter-starter-project_change_this_name:latest}
+    image: ${IMAGE_NAME:-cybercrime-metrics-lit-review:latest}
     ports:
       - "${HOST_PORT:-8888}:8888"
     volumes:

@@ -1,0 +1,545 @@
+[
+  {
+    "toc_id": 1,
+    "toc_text": "Cybercrime and transnational threats impacting the UK are DETECTED and notified to UK authorities.",
+    "toc_level": "Impact",
+    "indicators": [
+      {
+        "indicator_id": "I.1.1",
+        "indicator_text": "Volume/rate of UK-relevant cybercrime/threats detected by partners and notified to UK authorities (NCA, NCSC, Police).",
+        "potential_sources": [
+          "Partner reporting channels (e.g., Police-to-Police, Gov-to-Gov)",
+          "UK internal records (e.g., NCA, NCSC, FCDO reporting)",
+          "Programme M&E data (e.g., partner reports submitted via programme)",
+          "Threat intelligence feeds",
+          "Cybersecurity company reports",
+          "Academic research using technical data (honeypots, network traffic)",
+          "Partner Admin data (e.g., Cybercrime Unit reports, Ministry reports - if accessible)",
+          "Reports by partner 24/7 points of contact (if accessible)"
+        ]
+      },
+      {
+        "indicator_id": "I.1.2",
+        "indicator_text": "Quality/actionability of threat intelligence notifications received by UK authorities from partners.",
+        "potential_sources": [
+          "UK internal assessment (e.g., NCA, NCSC evaluation of received intel)",
+          "Partner reporting channels",
+          "Programme M&E data (e.g., feedback on partner reports)",
+          "Programme-supported assessments"
+        ]
+      },
+      {
+        "indicator_id": "I.1.3",
+        "indicator_text": "Volume/rate of malicious infrastructure (targeting UK) identified by partners and notified to UK authorities/relevant takedown bodies.",
+        "potential_sources": [
+          "Partner country CERT/ISP/Law Enforcement reports (if shared).",
+          "NCSC/NCA data correlating infrastructure locations.",
+          "Threat intelligence feeds.",
+          "Partner Admin data (e.g., Cybercrime Unit/CERT reports - if accessible)",
+          "Reports by partner 24/7 points of contact (if accessible)"
+        ]
+      },
+      {
+        "indicator_id": "I.1.4",
+        "indicator_text": "Number of specific UK-relevant threat campaigns or high-priority actors identified through partner investigations/monitoring and notified to UK authorities.",
+        "potential_sources": [
+          "Programme M&E records documenting specific detections linked to supported capabilities.",
+          "Case files from UK/Partner joint operations.",
+          "Partner country agency reports (if shared).",
+          "Partner Admin data (e.g., Cybercrime Unit/Ministry reports - if accessible)",
+          "Reports on Joint Operations"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 2,
+    "toc_text": "Cybercrime and transnational threats impacting UK interests are DISRUPTED.",
+    "toc_level": "Impact",
+    "indicators": [
+      {
+        "indicator_id": "I.2.1",
+        "indicator_text": "Number/Rate of successful disruptions (e.g., takedowns, arrests, prosecutions) of cybercrime operations/actors impacting UK interests, conducted by or with partners.",
+        "potential_sources": [
+          "Partner reporting channels (Police/Judiciary reports on takedowns, arrests etc.)",
+          "UK internal records (NCA, NCSC, FCDO tracking of joint/partner operations)",
+          "Programme M&E data (reports on programme-supported disruptions)",
+          "Public reporting/News media",
+          "Threat intelligence feeds (monitoring infrastructure changes)",
+          "Partner Admin data (e.g., MoI/MoJ, Cybercrime Unit reports - if accessible)",
+          "Reports on Joint Operations"
+        ]
+      },
+      {
+        "indicator_id": "I.2.2",
+        "indicator_text": "Estimated reduction in harm/losses to UK victims/interests resulting from disruption activities.",
+        "potential_sources": [
+          "UK internal analysis (e.g., NCSC/NCA impact assessments)",
+          "Economic modelling based on disruption data",
+          "Victim surveys (measuring changes in victimization rates pre/post disruption)",
+          "Cybersecurity company reports (sector trends)",
+          "Academic research on cost of cybercrime",
+          "National assessments (if covering economic impact/costs)"
+        ]
+      },
+      {
+        "indicator_id": "I.2.3",
+        "indicator_text": "Measurable reduction in specific UK-impacting malicious activities (e.g., specific malware C&C traffic, phishing campaigns targeting UK) quantifiably linked to partner disruption actions.",
+        "potential_sources": [
+          "NCSC Active Cyber Defence reports/data.",
+          "Threat intelligence feeds monitoring specific threat indicators.",
+          "Network traffic analysis (pre/post disruption).",
+          "Data from cybersecurity vendors.",
+          "Partner Admin data (e.g., Cybercrime Unit reports - if tracking specific campaigns)"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 3,
+    "toc_text": "Cybercriminals and states are DETERRED by higher risks, higher costs or reduced return.",
+    "toc_level": "Impact",
+    "indicators": [
+      {
+        "indicator_id": "I.3.1",
+        "indicator_text": "Evidence of change in adversary (cybercriminal/state) behaviour/decision-making that reduces threats targeting UK interests, attributed to increased risk/cost from partner capabilities/actions."
+      },
+      {
+        "indicator_id": "I.3.2",
+        "indicator_text": "Reduction in the volume/frequency/success rate of specific types of attacks against UK interests attributed to deterrence measures.",
+        "potential_sources": [
+          "UK internal records (NCSC incident data, sectoral reports)",
+          "Partner reporting/intelligence",
+          "Threat intelligence feeds",
+          "Cybersecurity company threat reports",
+          "Victim surveys (longitudinal data if available)",
+          "Technical monitoring data (e.g., honeypots, network traffic)",
+          "Global Indices (e.g., ITU GCI - for context on national posture)",
+          "National threat assessments"
+        ]
+      },
+      {
+        "indicator_id": "I.3.3",
+        "indicator_text": "Sustained reduction over time in the hosting or transit of UK-relevant cybercriminal infrastructure/services within partner country jurisdictions, indicating a less permissive environment.",
+        "potential_sources": [
+          "Threat intelligence mapping infrastructure locations.",
+          "NCSC/NCA data analysis.",
+          "Long-term analysis from technical monitoring sources (Indicator 1.4).",
+          "Global Indices (e.g., ITU GCI, WEF NRI - for context on national posture)",
+          "National assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 4,
+    "toc_text": "Sharing intelligence with UK and others on cybercriminals and victims relevant to the UK.",
+    "toc_level": "Behaviour Change",
+    "indicators": [
+      {
+        "indicator_id": "BC.4.1",
+        "indicator_text": "Frequency and volume of actionable intelligence reports shared by partners with UK authorities.",
+        "potential_sources": [
+          "Logs from secure sharing platforms.",
+          "UK agency (NCA/NCSC/Police) intake records.",
+          "Programme M&E reports on partner outputs.",
+          "Partner Admin data (e.g., 24/7 PoC reports, Cybercrime Unit reports - if accessible)",
+          "Programme-supported assessments"
+        ]
+      },
+      {
+        "indicator_id": "BC.4.2",
+        "indicator_text": "Timeliness of intelligence sharing by partners following detection/collection.",
+        "potential_sources": [
+          "UK internal records (comparing intel timestamps with event timestamps)",
+          "Programme M&E data (if tracking sharing process)",
+          "Partner self-reporting (if standards exist)",
+          "Partner Admin data (e.g., 24/7 PoC reports - if timestamped)"
+        ]
+      },
+      {
+        "indicator_id": "BC.4.3",
+        "indicator_text": "Partner utilisation of programme-provided tools/training for intelligence analysis and reporting relevant to UK threats.",
+        "potential_sources": [
+          "Programme M&E data (training records, tool usage logs if available).",
+          "Feedback from UK agencies receiving intelligence.",
+          "Partner agency self-reporting.",
+          "Programme-supported assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 5,
+    "toc_text": "Operations to arrest and prosecute cybercriminals targeting UK victims.",
+    "toc_level": "Behaviour Change",
+    "indicators": [
+      {
+        "indicator_id": "BC.5.1",
+        "indicator_text": "Number of investigations leading to arrest initiated/conducted by partners concerning UK-relevant cybercrime.",
+        "potential_sources": [
+          "Partner reporting (Police/Judiciary statistics)",
+          "UK internal records (NCA liaison reporting)",
+          "Programme M&E data (tracking supported operations)",
+          "Public court records/News media (where available)",
+          "Partner Admin data (e.g., MoI/MoJ, Cybercrime Unit reports - if accessible)",
+          "Programme-supported assessments (if tracking stats)"
+        ]
+      },
+      {
+        "indicator_id": "BC.5.2",
+        "indicator_text": "Number of successful prosecutions and convictions secured by partners for UK-relevant cybercrime.",
+        "potential_sources": [
+          "Partner reporting (Judiciary/Prosecution statistics)",
+          "UK internal records (NCA liaison reporting)",
+          "Programme M&E data",
+          "Public court records/News media",
+          "Partner Admin data (e.g., MoI/MoJ reports - if accessible)",
+          "Programme-supported assessments (if tracking stats)"
+        ]
+      },
+      {
+        "indicator_id": "BC.5.3",
+        "indicator_text": "Use of programme-supported capabilities (e.g., digital forensics labs, legal expertise) in UK-relevant investigations, arrests, and prosecutions conducted by partners.",
+        "potential_sources": [
+          "Programme M&E records.",
+          "Case debriefs.",
+          "Partner agency feedback.",
+          "Programme-supported assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 6,
+    "toc_text": "Operations to take down or sinkhole criminal infrastructure/markets affecting the UK.",
+    "toc_level": "Behaviour Change",
+    "indicators": [
+      {
+        "indicator_id": "BC.6.1",
+        "indicator_text": "Number of partner-led takedown/sinkholing operations targeting UK-relevant infrastructure/markets.",
+        "potential_sources": [
+          "Partner reporting (LE, CERTs)",
+          "UK internal records (NCA, NCSC)",
+          "Programme M&E data",
+          "Threat intelligence reporting",
+          "Public announcements/News media",
+          "Partner Admin data (e.g., Cybercrime Unit, MoI/MoJ reports - if accessible)",
+          "Reports on Joint Operations"
+        ]
+      },
+      {
+        "indicator_id": "BC.6.2",
+        "indicator_text": "Effectiveness of takedown/sinkholing operations conducted by partners (e.g., duration of disruption, reduction in malicious traffic/activity from targeted source).",
+        "potential_sources": [
+          "Technical monitoring (Network traffic analysis, Sinkhole data, Honeypots)",
+          "Threat intelligence feeds",
+          "UK internal analysis (NCSC, NCA)",
+          "Partner reporting",
+          "Academic studies analyzing specific operations",
+          "Partner Admin data (e.g., Cybercrime Unit reports - if tracking impact)",
+          "Programme-supported assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 7,
+    "toc_text": "High risk individuals increase their own protection and digital safe practices.",
+    "toc_level": "Behaviour Change",
+    "indicators": [
+      {
+        "indicator_id": "BC.7.1",
+        "indicator_text": "Adoption rate of recommended security tools/practices by targeted high-risk individuals.",
+        "potential_sources": [
+          "Surveys of targeted individuals (pre/post intervention)",
+          "Programme M&E data (e.g., tracking tool downloads, training participation)",
+          "Qualitative interviews/focus groups",
+          "Technical data (if tools/practices have telemetry, e.g., MFA usage - likely difficult to access)",
+          "Programme-supported assessments"
+        ]
+      },
+      {
+        "indicator_id": "BC.7.2",
+        "indicator_text": "Reduction in successful attacks/victimization incidents reported by targeted high-risk individuals.",
+        "potential_sources": [
+          "Surveys of targeted individuals (longitudinal)",
+          "Programme M&E data (incident reporting channels)",
+          "Qualitative interviews",
+          "Programme-supported assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 8,
+    "toc_text": "Governments implement policies to regulate cyber intrusion capabilities.",
+    "toc_level": "Behaviour Change",
+    "indicators": [
+      {
+        "indicator_id": "BC.8.1",
+        "indicator_text": "Number/Percentage of partner governments enacting or updating legislation/policies regulating cyber intrusion tools/services.",
+        "potential_sources": [
+          "Public legislative records/databases",
+          "Government websites/publications",
+          "Programme M&E data (tracking policy engagement)",
+          "Academic/NGO policy tracking initiatives",
+          "News media/Specialist reporting",
+          "Text of national strategies/legislation",
+          "Octopus Cybercrime Repository",
+          "UNODC Cybercrime Repository",
+          "Council of Europe Treaty Office",
+          "Programme-supported assessments"
+        ]
+      },
+      {
+        "indicator_id": "BC.8.2",
+        "indicator_text": "Evidence of partner government enforcement actions (investigations, prosecutions, sanctions) based on policies regulating intrusion capabilities.",
+        "potential_sources": [
+          "Partner government reporting (Ministries of Justice, LEA reports)",
+          "Court records/gazettes",
+          "News media/Specialist reporting",
+          "Programme M&E data (if supporting enforcement)",
+          "Reports from international bodies/NGOs",
+          "Partner Admin data (e.g., MoI/MoJ reports - if accessible)",
+          "Programme-supported assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 9,
+    "toc_text": "Gov'ts act against state and emerging threats (e.g. attribution; pre-emptive measures)",
+    "toc_level": "Behaviour Change",
+    "indicators": [
+      {
+        "indicator_id": "BC.9.1",
+        "indicator_text": "Frequency/Instances of partner governments publicly attributing cyber incidents impacting UK interests to state actors.",
+        "potential_sources": [
+          "Government public statements/press releases",
+          "Official government reports",
+          "News media monitoring",
+          "Multilateral organization statements",
+          "Academic/Think tank tracking of state cyber activity",
+          "Text of national strategies/policy statements"
+        ]
+      },
+      {
+        "indicator_id": "BC.9.2",
+        "indicator_text": "Evidence of partner governments implementing pre-emptive measures against identified state/emerging threats impacting UK interests (e.g., sanctions, diplomatic actions, technical defenses).",
+        "potential_sources": [
+          "Government announcements/reports (foreign policy, treasury, defence)",
+          "News media monitoring",
+          "Multilateral organization actions (e.g., UN, regional bodies)",
+          "Programme M&E (if supporting policy/technical measures)",
+          "Analysis of national cybersecurity strategies",
+          "Text of national budgets/strategies",
+          "Programme-supported assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 10,
+    "toc_text": "Detection and analysis of UK-relevant cybercrime by partners and international police orgs.",
+    "toc_level": "Behaviour Change",
+    "indicators": [
+      {
+        "indicator_id": "BC.10.1",
+        "indicator_text": "Volume/Quality of UK-relevant cybercrime cases detected and analyzed by partners.",
+        "potential_sources": [
+          "Partner reporting (Police/Judiciary statistics, analytical reports)",
+          "UK internal records (liaison reporting)",
+          "Programme M&E data (case reporting)",
+          "Data from international police organizations (e.g., Interpol, Europol)",
+          "Partner Admin data (e.g., Cybercrime Unit, MoI/MoJ reports - if accessible)",
+          "Programme-supported assessments"
+        ]
+      },
+      {
+        "indicator_id": "BC.10.2",
+        "indicator_text": "Establishment or enhancement of dedicated cybercrime analysis units/capabilities within partner agencies, demonstrated through programme M&E or partner reporting.",
+        "potential_sources": [
+          "Programme M&E records (capacity assessments, support provided).",
+          "Partner agency organisational charts/reports.",
+          "Reports from international police organisations on partner capabilities.",
+          "Text of national budgets/strategies",
+          "Programme-supported assessments"
+        ]
+      },
+      {
+        "indicator_id": "BC.10.3",
+        "indicator_text": "Production and sharing (with UK/Interpol etc.) of analytical products (e.g., threat assessments, actor profiles) on UK-relevant cybercrime originating from partner analysis.",
+        "potential_sources": [
+          "UK agency intelligence intake logs.",
+          "Interpol/Europol reporting.",
+          "Programme M&E reports.",
+          "Partner Admin data (e.g., Cybercrime Unit reports - if accessible)",
+          "Programme-supported assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 11,
+    "toc_text": "UK and partners better understand of state and emerging threats",
+    "toc_level": "Change Driver",
+    "toc_com_b_factor": "Capability",
+    "indicators": [
+      {
+        "indicator_id": "CD.11.1",
+        "indicator_text": "Quality and depth of joint (UK-partner) research/analysis produced on state and emerging threats impacting UK interests.",
+        "potential_sources": [
+          "Review of published joint research papers/reports",
+          "UK internal assessment of shared partner analysis",
+          "Programme M&E data (tracking joint analysis activities)",
+          "Citations and impact of joint research",
+          "Programme-supported assessments"
+        ]
+      },
+      {
+        "indicator_id": "CD.11.2",
+        "indicator_text": "Range and frequency of mechanisms used for sharing UK-partner understanding of state/emerging threats (e.g., workshops, reports, personnel exchanges).",
+        "potential_sources": [
+          "Programme M&E data (tracking activities)",
+          "UK internal records (tracking meetings, exchanges)",
+          "Partner feedback/reporting",
+          "Programme-supported assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 12,
+    "toc_text": "Ability to swiftly detect cybercrime and prepare information for onward action",
+    "toc_level": "Change Driver",
+    "toc_com_b_factor": "Capability",
+    "indicators": [
+      {
+        "indicator_id": "CD.12.1",
+        "indicator_text": "Average time taken by partners from cybercrime detection to preparing actionable information packages for UK-relevant cases.",
+        "potential_sources": [
+          "Partner process monitoring/reporting",
+          "Programme M&E data (tracking case handling times)",
+          "Case file analysis (comparing timestamps)",
+          "Simulation exercises/drills",
+          "Partner Admin data (e.g., Cybercrime Unit, MoI/MoJ reports - if tracked)",
+          "Programme-supported assessments (if assessing process time)"
+        ]
+      },
+      {
+        "indicator_id": "CD.12.2",
+        "indicator_text": "Assessed quality/completeness of information packages prepared by partners for UK-relevant cases.",
+        "potential_sources": [
+          "UK internal assessment (NCA/NCSC review of received packages)",
+          "Programme M&E (using standardized quality checklists)",
+          "Peer review mechanisms between partners",
+          "Programme-supported assessments"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 13,
+    "toc_text": "Effective processes and platforms for sharing information internationally",
+    "toc_level": "Change Driver",
+    "toc_com_b_factor": "Capability",
+    "indicators": [
+      {
+        "indicator_id": "CD.13.1",
+        "indicator_text": "Existence and assessed functionality/utilisation rates of international information sharing platforms/processes used by partners for UK-relevant information.",
+        "potential_sources": [
+          "Programme M&E (platform audits, usage logs)",
+          "Partner self-assessment/reporting",
+          "UK internal feedback on platform effectiveness",
+          "User surveys/interviews",
+          "Reports from platform providers/managers (e.g., Interpol)",
+          "Programme-supported assessments",
+          "Partner Admin data (e.g., usage logs - if accessible)"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 14,
+    "toc_text": "Politicians and senior officers want to tackle criminals that impact their country and UK",
+    "toc_level": "Change Driver",
+    "toc_com_b_factor": "Motivation",
+    "indicators": [
+      {
+        "indicator_id": "CD.14.1",
+        "indicator_text": "Level of expressed commitment by partner politicians/senior officers to tackling cybercrime impacting UK interests (e.g., public statements, strategy documents, resource allocation).",
+        "potential_sources": [
+          "Analysis of public statements/speeches",
+          "Review of national strategies/policies",
+          "Analysis of budget allocations to cybercrime units/initiatives",
+          "Programme M&E (records of high-level engagement)",
+          "Media monitoring",
+          "Text of national strategies/budgets",
+          "Programme-supported assessments (if assessing political will)"
+        ]
+      },
+      {
+        "indicator_id": "CD.14.2",
+        "indicator_text": "Level of partner participation/leadership in international cybercrime cooperation initiatives relevant to UK.",
+        "potential_sources": [
+          "Tracking membership/participation in international bodies/taskforces",
+          "Monitoring co-sponsorship of resolutions/initiatives",
+          "Programme M&E (records of partner engagement in activities)",
+          "UK diplomatic reporting",
+          "Programme-supported assessments",
+          "Partner Admin data (e.g., MoI/MoJ reports tracking participation)"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 15,
+    "toc_text": "High risk targets of cybercrime have the knowledge and tools to protect themselves",
+    "toc_level": "Change Driver",
+    "toc_com_b_factor": "Capability",
+    "indicators": [
+      {
+        "indicator_id": "CD.15.1",
+        "indicator_text": "Level of cybersecurity knowledge demonstrated by targeted high-risk individuals relevant to protecting against UK-impacting threats.",
+        "potential_sources": [
+          "Knowledge tests (pre/post training)",
+          "Surveys assessing understanding of threats/practices",
+          "Qualitative interviews/focus groups",
+          "Programme M&E (training assessments)",
+          "Review of relevant training academy curricula"
+        ]
+      },
+      {
+        "indicator_id": "CD.15.2",
+        "indicator_text": "Availability and accessibility of appropriate security tools/resources for targeted high-risk individuals.",
+        "potential_sources": [
+          "Assessment of tools/resources provided by programme/partners",
+          "Surveys of targeted individuals (asking about access/usability)",
+          "Market analysis of available tools",
+          "Programme M&E (tracking resource distribution)"
+        ]
+      }
+    ]
+  },
+  {
+    "toc_id": 16,
+    "toc_text": "Campaigns increase governmentt and global cybersecurity community will to address intrusion capabilities",
+    "toc_level": "Change Driver",
+    "toc_com_b_factor": "Motivation",
+    "indicators": [
+      {
+        "indicator_id": "CD.16.1",
+        "indicator_text": "Evidence of increased public/political discourse and attention in partner countries on the regulation of intrusion capabilities following campaigns.",
+        "potential_sources": [
+          "Media monitoring (volume/sentiment of coverage)",
+          "Analysis of parliamentary/legislative debates",
+          "Tracking mentions in government/multilateral policy documents",
+          "Social media analysis",
+          "Survey data (public/elite opinion)",
+          "Text of national strategies/policy statements"
+        ]
+      }
+    ]
+  }
+]
